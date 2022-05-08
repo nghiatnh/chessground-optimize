@@ -2,7 +2,7 @@ export type Color = typeof colors[number];
 export type Role = 'king' | 'horse' | 'rook' | 'elephant' | 'advisor' | 'canon' | 'pawn';
 export type File = typeof files[number];
 export type Rank = typeof ranks[number];
-export type Key = 'a0' | `${File}${Rank}`;
+export type Key = '00' | `${File}${Rank}`;
 export type FEN = string;
 export type Pos = [number, number];
 export interface Piece {
@@ -99,8 +99,8 @@ export type Milliseconds = number;
 export type KHz = number;
 
 export const colors = ['white', 'black'] as const;
-export const files = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i'] as const;
-export const ranks = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'] as const;
+export const files = ['1', '2', '3', '4', '5', '6', '7', '8', '9'] as const;
+export const ranks = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j'] as const;
 export const boardSize = { width: files.length, height: ranks.length } as const;
 
 export type RanksPosition = 'left' | 'right';
