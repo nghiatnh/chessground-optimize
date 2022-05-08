@@ -1,0 +1,43 @@
+/** Embedded SVGs for all chess pieces */
+.cg-wrap piece.pawn.white {
+  background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.7.6/static/images/pieces/xiangqi/2dhanzi/RP.svg');
+}
+.cg-wrap piece.canon.white {
+  background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.7.6/static/images/pieces/xiangqi/2dhanzi/RC.svg');
+}
+.cg-wrap piece.horse.white {
+  background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.7.6/static/images/pieces/xiangqi/2dhanzi/RH.svg');
+}
+.cg-wrap piece.elephant.white {
+  background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.7.6/static/images/pieces/xiangqi/2dhanzi/RE.svg');
+}
+.cg-wrap piece.advisor.white {
+  background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.7.6/static/images/pieces/xiangqi/2dhanzi/RA.svg');
+}
+.cg-wrap piece.rook.white {
+  background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.7.6/static/images/pieces/xiangqi/2dhanzi/RR.svg');
+}
+.cg-wrap piece.king.white {
+  background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.7.6/static/images/pieces/xiangqi/2dhanzi/RK.svg');
+}
+.cg-wrap piece.pawn.black {
+  background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.7.6/static/images/pieces/xiangqi/2dhanzi/BP.svg');
+}
+.cg-wrap piece.canon.black {
+  background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.7.6/static/images/pieces/xiangqi/2dhanzi/BC.svg');
+}
+.cg-wrap piece.horse.black {
+  background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.7.6/static/images/pieces/xiangqi/2dhanzi/BH.svg');
+}
+.cg-wrap piece.elephant.black {
+  background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.7.6/static/images/pieces/xiangqi/2dhanzi/BE.svg');
+}
+.cg-wrap piece.advisor.black {
+  background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.7.6/static/images/pieces/xiangqi/2dhanzi/BA.svg');
+}
+.cg-wrap piece.rook.black {
+  background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.7.6/static/images/pieces/xiangqi/2dhanzi/BR.svg');
+}
+.cg-wrap piece.king.black {
+  background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.7.6/static/images/pieces/xiangqi/2dhanzi/BK.svg');
+}
